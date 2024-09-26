@@ -1,0 +1,98 @@
+ls -l .ssh/
+cat /hombre/vagrant/.ssh/id_rsa.pub
+ls -l .ssh/
+cat /home/vagrant/.ssh/id_rsa
+cat /home/vagrant/.ssh/id_rsa.pub 
+ll
+ls -l
+mkdir fran
+ll
+cd repogit/
+git clone git@github.com:francoBarahona05/TP_AySO.git
+cd TP_AySO/
+ls -l
+ll
+ls -l .ssh/
+ll .ssh/
+ll
+cd ..
+rm -rf reposgit_tp/
+ll
+mkdir repogit
+cd repogit/
+git clone git@github.com:francoBarahona05/TP_AySO.git
+ll
+cd TP_AySO/
+ll
+cd ..
+cd TP_AySO/
+echo "hola mundo"
+echo "hola mundo" > unArchivo
+ls -l
+cat unArchivo
+git status
+rm -r unArchivo
+ls -l
+git status
+echo "hola soy franco barahona" > unArchivo
+git status
+git add.
+git add .
+git status
+git commit -m "primer commit" 
+git status
+git commit "add: commit"
+git commit -m "add: buenas"
+git commit -m "add: primer commit"
+git status
+git push
+git status
+rf -r unArchivo 
+rf  -r unArchivo 
+rm -rf unArchivo 
+git status
+git add .
+git status
+git commit -m "borre un archivo que cree para probar el primer commit"
+got statis
+git status
+fit push
+git status
+ll 
+git status
+git push
+git status
+cd repogit/
+cd TP_AySO/
+ls -l
+cat lista_ordenada
+git status
+git commit -m "ADD: listado de usuarios ordenada"
+git status
+cat comando_dump.txt
+git status
+git add .
+git commit -m"ADD: comando para capturar y analizar trafico de red"
+git status
+cat README.md 
+ls -l
+cat README.md
+cat << EOF >> README.md
+Alumno: Franco Barahona
+Division: 314
+Turno: Noche
+EOF
+
+cat README.md 
+sed -i '1s/.*/>Alumno: Franco Barahona/'
+sed -i '1s/.*/>Alumno: Franco Barahona/' README.md
+cat README.md 
+sed -i '1s/.*/Alumno: Franco Barahona/' README.md
+cat R
+cat README.md 
+git commit -m "docs: actualizar README.md con mis datos/alumno"
+git add .
+git status
+git commit -m "docs: actualizar README.md con mis datos/alumno"
+git status
+history -a
